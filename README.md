@@ -1,6 +1,6 @@
 ## Data Science Portfolio 
 
-This repository contains my personal data science projects. It currently contains the following projects: 
+This repository contains selected personal data science projects. It currently contains the following projects: 
 
 1. Spotify Library of Music Analysis
 2. Rachel's Spotify Data Analysis
